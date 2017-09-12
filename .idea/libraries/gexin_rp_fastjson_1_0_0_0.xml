@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="gexin-rp-fastjson-1.0.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/新建文件夹/gexin-rp-fastjson-1.0.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/新建文件夹/gexin-rp-sdk-base-4.0.0.14.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/新建文件夹/gexin-rp-sdk-http-4.0.1.9.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/新建文件夹/gexin-rp-sdk-template-4.0.0.8.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/新建文件夹/protobuf-java-2.5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
